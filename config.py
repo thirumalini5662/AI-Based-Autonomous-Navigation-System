@@ -1,0 +1,7 @@
+GRID_WIDTH = 30
+GRID_HEIGHT = 20
+START = (1, 1)
+GOAL = (28, 18)
+RANDOM_SEED = 42
+OBSTACLE_DENSITY = 0.18
+RESULT_PATH = "outputs/navigation_result.png"
